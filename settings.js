@@ -2,10 +2,10 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
-global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
+global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = true //auto kick spammer (true to on, false to off)
 
 
@@ -22,25 +22,25 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['2349156305896'] //ur owner number
-global.ownernomer = "2349156305896" //ur owner number2
-global.ownername = "🤪𝐁𝐔𝐌𝐁𝐔𝐌 𝐓𝐕🤪" //ur owner name
+global.ownernomer = "2349010895477" //ur owner number2
+global.ownername = "🤪𝐂𝐀𝐋𝐋 𝐌𝐇𝐄 𝐁𝐔𝐌𝐁𝐔𝐌🤪" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "nigetia, lagos, abuja" //ur location
+global.location = "nigetia, rivers, port harcourt" //ur location
 
 //new
-global.botname = "🤪𝑨𝑺𝑲_𝑶𝑭_𝑩𝑼𝑴𝑩𝑼𝑴🤪"
+global.botname = "🤪𝑨𝑺𝑲 𝑶𝑭 𝑩𝑼𝑴𝑩𝑼𝑴🤪"
 global.ownernumber = '2349156305896'
-global.ownername = '𝐁𝐔𝐌𝐁𝐔𝐌 𝐓𝐕🤪'
+global.ownername = '𝐂𝐀𝐋𝐋 𝐌𝐇𝐄 𝐁𝐔𝐌𝐁𝐔𝐌🤪'
 global.ownerNumber = ["2349156305896@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/G92hb8ioZ9Y5CeR5ePovho"
+global.wagc = "https://wa.me/+2349010895477"
 global.themeemoji = '🤪'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "🤪𝐁𝐔𝐌𝐁𝐔𝐌"
-global.author = "𝑨𝑺𝑲_𝑶𝑭_𝑩𝑼𝑴𝑩𝑼𝑴🤪\n\n"
+global.packname = "🤪𝐂𝐀𝐋𝐋 𝐌𝐇𝐄 𝐁𝐔𝐌𝐁𝐔𝐌🤪"
+global.author = "𝑨𝑺𝑲 𝑶𝑭 𝑩𝑼𝑴𝑩𝑼𝑴🤪\n\n"
 global.creator = "916909137213@s.whatsapp.net"
 global.prefa = ['','!','.','#','🤪']
 global.sessionName = 'session'
